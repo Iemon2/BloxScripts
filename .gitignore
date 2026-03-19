@@ -1,0 +1,11 @@
+
+*.cmake
+*.a
+*/CMakeFiles
+include
+build
+.vscode
+CMakeCache.txt
+*.ninja
+.ninja_log
+.ninja_deps
