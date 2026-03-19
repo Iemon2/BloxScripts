@@ -2,6 +2,7 @@
 *.cmake
 *.a
 */CMakeFiles
+CMakeFiles
 include
 build
 .vscode
